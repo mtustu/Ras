@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "409762838999",
+    "firebase_url": "https://rest-c56c0.firebaseio.com",
+    "project_id": "rest-c56c0",
+    "storage_bucket": "rest-c56c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409762838999:android:c7c3762fae490f22",
+        "android_client_info": {
+          "package_name": "mtustudent.ceit.kkhant.ras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409762838999-g7du5256r33otbgin1m8fjq9nd04rsa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mtustudent.ceit.kkhant.ras",
+            "certificate_hash": "b50225889b03a6181961be4a06e2496188ae451c"
+          }
+        },
+        {
+          "client_id": "409762838999-5tojfb3uh3akcrv2mpr4070gelvt1cjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxu9xq52r5rkt3rHpZoOjUbUxDD4pELMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409762838999-5tojfb3uh3akcrv2mpr4070gelvt1cjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
